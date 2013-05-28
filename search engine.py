@@ -1,4 +1,11 @@
-
+"""
+ * searchengine.py
+ *
+ * Author: Shyam Shankar <syamsankar91@gmail.com>
+ * Licensed under GPL Version 3
+ *
+ * This is a prototype of a basic search engine
+"""
 
 import urllib
 
